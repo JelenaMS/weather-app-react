@@ -1,0 +1,112 @@
+Body {
+    padding-bottom: 0%;
+    padding-top: 2%;
+    color: #ffffff;
+    display: block;
+    font-family: "Roboto Slab", serif;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  .CurrentDATA {
+    text-align: center;
+    font-family: "Roboto Slab", serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    margin: 0 auto;
+  }
+  .Container {
+    font-family: "Roboto Slab", serif;
+    color: #5f7798;
+    border-radius: 5px;
+  }
+  .Wrapper {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 5px solid #d7dfec;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    font-family: "Roboto Slab", serif;
+  }
+  
+  .hours {
+    font-size: large;
+    padding: 5%;
+  }
+  button {
+    color: #a9bedc;
+    font-size: 15px;
+    line-break: auto;
+    background: transparent;
+    border: solid #b1c4de 2px;
+    border-radius: 20px;
+    box-shadow: 5px 2px 2px #a9bedc;
+    transition: all 150ms ease-in-out;
+    font-family: "Roboto Slab", serif;
+  }
+  #current-location-button {
+    color: #a9bedc;
+    font-size: 15px;
+    line-break: auto;
+    background: transparent;
+    border: solid #b1c4de 2px;
+    border-radius: 20px;
+    box-shadow: 5px 2px 2px #a9bedc;
+    transition: all 150ms ease-in-out;
+    font-family: "Roboto Slab", serif;
+  }
+  input[type="search"] {
+    width: 50%;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #b1c4de;
+    color: #d4dcea;
+    font-size: 20px;
+    border: 2px solid #b1c4de;
+  }
+  
+  button:hover {
+    background-color: #b1c4de;
+    color: #d4dcea;
+    cursor: pointer;
+  }
+  #current-location-button:hover {
+    background-color: #b1c4de;
+    color: #d4dcea;
+    cursor: pointer;
+  }
+  
+  #celsius-link {
+    font-size: small;
+  }
+  #fahrenheit-link {
+    font-size: small;
+  }
+  .units {
+    position: relative;
+    top: -25px;
+  }
+  small {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li {
+    text-align: center;
+  }
+  #icon {
+    margin-right: 10px;
+    margin-left: 5px;
+    height: 75px;
+    width: 75px;
+    display: block;
+  }
+  

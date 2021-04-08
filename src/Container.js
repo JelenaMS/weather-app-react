@@ -1,11 +1,12 @@
 import React from "react";
 import "./styles.css";
-import Wrapper from "./Wrapper";
+import Row2 from "./Row2";
+
 import "bootstrap/dist/css/bootstrap.min.css";
-export default function App() {
+export default function Container() {
   return (
-    <div className="App">
-      <Wrapper />
+    <div className="Container">
+      <Row2 />
     </div>
   );
 }
