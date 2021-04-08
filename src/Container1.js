@@ -6,16 +6,16 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export default function Container1() {
   return (
     <div className="Container1">
-      <Wrapper />
+      <Row2 />
 
-      <small>
+      
         <a
-          href="https://github.com/JelenaMS/Plus_weather_project"
+          href="https://github.com/JelenaMS/weather-app-react"
           target="blank"
         >
           Open-source code
         </a>
-      </small>
+     
     </div>
   );
 }

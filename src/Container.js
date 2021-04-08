@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import Row2 from "./Row2";
+import Wrapper from "./Wrapper";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 export default function Container() {

@@ -14,6 +14,12 @@ export default function CurrentDATA() {
       </div>
 
       <Container />
+      <a
+          href="https://github.com/JelenaMS/weather-app-react"
+          target="blank"
+        >
+          Open-source code
+        </a>
     </div>
   );
 }
