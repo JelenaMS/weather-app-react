@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export default function Container() {
   return (
     <div className="Container">
-      <Row2 />
+      <Wrapper />
     </div>
   );
 }
